@@ -1,3 +1,4 @@
+```
 class shinima(human):
   def __init__(self):
     self.gender = 'male'
@@ -9,6 +10,7 @@ class shinima(human):
 
 sh1n1ma = shinima()
 sh1n1ma.greeting()
+```
 
 <!---
 Sh1n1ma/Sh1n1ma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
