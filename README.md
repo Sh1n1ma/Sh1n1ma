@@ -1,5 +1,5 @@
 ```
-class shinima(human):
+class sh1n1ma(human):
   def __init__(self):
     self.gender = 'male'
     self.occupation = 'student'
@@ -8,7 +8,7 @@ class shinima(human):
   def greeting(self):
     print("hi,i'm sh1n1ma")
 
-sh1n1ma = shinima()
+sh1n1ma = sh1n1ma()
 sh1n1ma.greeting()
 ```
 
