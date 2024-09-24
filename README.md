@@ -1,15 +1,5 @@
 ```
-class sh1n1ma(human):
-  def __init__(self):
-    self.gender = 'male'
-    self.occupation = 'student'
-    self.field_of_study = 'diffusion model'
-    self.interests = 'surfing the internet & 🎮'
-  def greeting(self):
-    print("hi,i'm sh1n1ma")
-
-sh1n1ma = sh1n1ma()
-sh1n1ma.greeting()
+print("Hello World!")
 ```
 
 <!---
